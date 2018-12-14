@@ -19,7 +19,7 @@ Or install it yourself as:
 ## Usage
 A simple wx program pay
 (developer version)
-#Reference
+##Reference
 
 https://pay.weixin.qq.com/wiki/doc/api/index.html.
 
